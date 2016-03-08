@@ -3,3 +3,28 @@
 	background-color: #c00;
 
 }
+
+a{
+	text-decoration: none;
+	font-size: 200%;
+	color: white;
+	font-style: arial;
+	font-weight: bold;
+}
+
+#HemK{
+	width: 62px;
+	margin-left: 30px;
+	margin-top: 15px;
+}
+#Meny{
+
+	height: 70px;
+	margin-top: 50px;
+
+border-radius: 30px;
+border-style:solid;
+border-color: black;
+border-width:3px;
+background: black; 
+}
